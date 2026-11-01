@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KoPapirOllo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e888f03487405992bea045c4e5a0fad54f3393b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+855846be9a1078b2b8857c2911922001525fb889")]
 [assembly: System.Reflection.AssemblyProductAttribute("KoPapirOllo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KoPapirOllo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

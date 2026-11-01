@@ -3,3 +3,14 @@ D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.Asse
 D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.AssemblyInfo.cs
 D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.csproj.CoreCompileInputs.cache
 D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.sourcelink.json
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\bin\Debug\net10.0\KoPapirOllo.exe
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\bin\Debug\net10.0\KoPapirOllo.deps.json
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\bin\Debug\net10.0\KoPapirOllo.runtimeconfig.json
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\bin\Debug\net10.0\KoPapirOllo.dll
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\bin\Debug\net10.0\KoPapirOllo.pdb
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.dll
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\refint\KoPapirOllo.dll
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.pdb
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.genruntimeconfig.cache
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\ref\KoPapirOllo.dll
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirO.AA0A2BE3.Up2Date
