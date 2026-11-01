@@ -1,0 +1,5 @@
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.AssemblyInfoInputs.cache
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.AssemblyInfo.cs
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.csproj.CoreCompileInputs.cache
+D:\AsztaliAlkalmazasFejlesztes_11\KoPapirOllo\obj\Debug\net10.0\KoPapirOllo.sourcelink.json
